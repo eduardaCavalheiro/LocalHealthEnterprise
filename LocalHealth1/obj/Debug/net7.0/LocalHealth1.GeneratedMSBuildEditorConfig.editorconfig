@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LocalHealth1
+build_property.RootNamespace = LocalHealth1
+build_property.ProjectDir = C:\Users\eduar\Downloads\LocalHelathUltimo\LocalHealth1\LocalHealth1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eduar\Downloads\LocalHelathUltimo\LocalHealth1\LocalHealth1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/DetalheDiagnostico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxoZURpYWdub3N0aWNvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/DetalheDiagnostico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxoZURpYWdub3N0aWNvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/DetalheDiagnostico/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxoZURpYWdub3N0aWNvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/DetalheDiagnostico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxoZURpYWdub3N0aWNvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/DetalheDiagnostico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxoZURpYWdub3N0aWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Diagnostico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Diagnostico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Diagnostico/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Diagnostico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Diagnostico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Doenca/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9lbmNhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Doenca/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9lbmNhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Doenca/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9lbmNhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Doenca/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9lbmNhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Doenca/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9lbmNhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Localizacao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjYW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Localizacao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjYW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Localizacao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjYW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Localizacao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjYW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Localizacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjYW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Medico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Medico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Medico/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Medico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Medico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/Downloads/LocalHelathUltimo/LocalHealth1/LocalHealth1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yncrq9kwrh
